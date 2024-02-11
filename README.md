@@ -1,4 +1,6 @@
-This work had the objective to create a model trained on 2d swords with stable diffusion. We used this github as a resource to our work: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+We begin with Guide to Generate Infinite Game Assets to fine-tune our model.
+
+This work had the objective to create a model trained on 2d swords with stable diffusion, so we created our dataset with swords 2d. We used this github as a resource to our work to get the results: https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 Also, in this work I had some troubles for some erros, so my web ui user notes is like this:
 
